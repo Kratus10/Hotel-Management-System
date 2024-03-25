@@ -8,12 +8,11 @@ body{
     background-color: rgb(228, 223, 217);
     /* background-image: url(cloud.jpeg); */
     /* background-repeat: no-repeat; */
-    /* background-size: cover; */ 
+    /* background-size: cover; */
 }
 #mainpage{
     display: flex;
     flex-direction: column;
-
 }
 #verticaldiv{
     display: flex;
@@ -60,10 +59,10 @@ body{
     padding-top: 10px;
 }
 #search{
-    padding-left: 20px;
+    padding-left: 1px;
 }
 #register{
-    padding-right: 300px;
+    padding-right: 100px;
 }
 #match{
     font-size: 16pt;
